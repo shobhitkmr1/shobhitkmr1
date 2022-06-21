@@ -2,38 +2,6 @@
 shobhitkmr1/shobhitkmr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Skip to content
-Product 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-durgeshsamariya
-/
-awesome-github-profile-readme-templates
-Public
-Code
-Issues
-1
-Pull requests
-22
-Actions
-Projects
-Wiki
-Security
-Insights
-awesome-github-profile-readme-templates/1999azzar.md
-@1999AZZAR
-1999AZZAR Create 1999azzar.md
-Latest commit 40b4aee 20 days ago
- History
- 1 contributor
-152 lines (144 sloc)  10.1 KB
-
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shobhit</h1>
 <h4 align="center">Heya! I'm Shobhit kumar, a student currently living in Ghaziabad, India. I'm Full Stack Developer and self-learner </h4>
