@@ -1,13 +1,50 @@
-- 👋 Hi, I’m @shobhitkmr1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
+ <!---
 shobhitkmr1/shobhitkmr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center">Hello Fellow < Developers/ ></h1>
+<h3 align="center"> I'm Wallflower, A passionate Web developer from Milano</h3>
+
+- 🌱 I’m currently mastering my skills in **Javascript**
+
+- 👯 I’m looking to collaborate on **Javascript projects**
+
+- 💬 Ask me about **React, Vue**	
+ <br>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/somekindofwallflower) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=somekinfofwallflower.visitor-badge)](https://github.com/somekindofwallflower) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/somekindofwallflower)
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Complete JavaScript Course**](https://github.com/somekindofwallflower/complete-javascript-course-2021) | [![GitHub issues](https://img.shields.io/github/issues/somekindofwallflower/complete-javascript-course-2021?color=green&logo=github&style=flat)](https://github.com/somekindofwallflower/complete-javascript-course-2021/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/somekindofwallflower/complete-javascript-course-2021?style=flat&logo=github)](https://github.com/somekindofwallflower/complete-javascript-course-2021/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/somekindofwallflower/complete-javascript-course-2021?style=flat&color=critical&logo=github)](https://github.com/somekindofwallflower/complete-javascript-course-2021/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**JavaScript Algorithms and Data Structures**](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structures) | [![GitHub issues](https://img.shields.io/github/issues/somekindofwallflower/javascript-algorithms-and-data-structures?color=green&logo=github&style=flat)](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structures) | [![GitHub PRs](https://img.shields.io/github/issues-pr/somekindofwallflower/javascript-projects-2021?style=flat&logo=github)](https://github.com/somekindofwallflower/javascript-projects-2021pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/somekindofwallflower/javascript-algorithms-and-data-structures?style=flat&color=critical&logo=github)](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structures/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Full Stack Engineer**](https://github.com/somekindofwallflower/full-stack-engineer-2021) | [![GitHub issues](https://img.shields.io/github/issues/somekindofwallflower/full-stack-engineer-2021?color=green&logo=github&style=flat)](https://github.com/somekindofwallflower/full-stack-engineer-2021/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/somekindofwallflower/full-stack-engineer-2021?style=flat&logo=github)](https://github.com/somekindofwallflower/full-stack-engineer-2021/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/somekindofwallflower/full-stack-engineer-2021?style=flat&color=critical&logo=github)](https://github.com/somekindofwallflower/full-stack-engineer-2021/pulls?q=is%3Apr+is%3Aclosed)  |
+
+<sup><kbd>***[Click here](https://github.com/somekindofwallflower/my-views-counter)***</kbd> *to view my other projects.</sup>* <br>
+
+<!-- #### [Click here to ask or suggest anything about my repositories!](https://github.com/somekindofwallflower/somekindofwallflower/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br> -->
+
+<p><a href="https://ko-fi.com/somekindofwallflower"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="somekindofwallflower" /></a></p><br><br>
+
+<h3 align="left"> Favorite quote:</h3>
+<!-- <p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p> -->
+
+<!-- 2022-02-23 -->
+<p>“This is one more piece of advice I have for you: don't get impatient. Even if things are so tangled up you can't do anything, don't get desperate or blow a fuse and start yanking on one particular thread before it's ready to come undone. You have to realize it's going to be a
+long process and that you'll work on things slowly, one at a time.”
+
+Haruki Murakami, Norwegian Wood
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/somekindofwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
+<a href="https://twitter.com/wallflower408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17074530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
+<a href="https://instagram.com/programmerscrunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/w4llfl0w3r13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
+<a href="https://discord.gg/wallflower#7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/somekindofwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
