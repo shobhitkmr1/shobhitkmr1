@@ -2,77 +2,142 @@
 shobhitkmr1/shobhitkmr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hello Fellow < Developers/ ></h1>
-<h3 align="center"> I'm Wallflower, A passionate Web developer from Milano</h3>
+Skip to content
+Product 
+Team
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+Sign in
+Sign up
+durgeshsamariya
+/
+awesome-github-profile-readme-templates
+Public
+Code
+Issues
+1
+Pull requests
+22
+Actions
+Projects
+Wiki
+Security
+Insights
+awesome-github-profile-readme-templates/1999azzar.md
+@1999AZZAR
+1999AZZAR Create 1999azzar.md
+Latest commit 40b4aee 20 days ago
+ History
+ 1 contributor
+152 lines (144 sloc)  10.1 KB
 
-- 🌱 I’m currently mastering my skills in **Javascript**
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shobhit</h1>
+<h4 align="center">Heya! I'm Shobhit kumar, a student currently living in Ghaziabad, India. I'm Full Stack Developer and self-learner </h4>
+</div>
 
-- 👯 I’m looking to collaborate on **Javascript projects**
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
 
-- 💬 Ask me about **React, Vue**	
- <br>
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/shobhit-kumar-332a86129/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.facebook.com/shobhitkmr" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://shobhit.2408@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/shobhit2408/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+8826799443" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/shobhitkmr1" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/somekindofwallflower) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=somekinfofwallflower.visitor-badge)](https://github.com/somekindofwallflower) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/somekindofwallflower)
+<details>
+  <summary>🧮 about</summary>
+<div>
+<h2 align="center">🧮 About this Account</h2>
+ <p align="center">
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
+     alt="spying counter" /></a>
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+     alt="account age" /></a>
+  </p>
+  <p align="center">
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
+     alt="updated" /></a>
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+     alt="repos" /></a>
+ </p>
+</div>
+</details>
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**Complete JavaScript Course**](https://github.com/somekindofwallflower/complete-javascript-course-2021) | [![GitHub issues](https://img.shields.io/github/issues/somekindofwallflower/complete-javascript-course-2021?color=green&logo=github&style=flat)](https://github.com/somekindofwallflower/complete-javascript-course-2021/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/somekindofwallflower/complete-javascript-course-2021?style=flat&logo=github)](https://github.com/somekindofwallflower/complete-javascript-course-2021/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/somekindofwallflower/complete-javascript-course-2021?style=flat&color=critical&logo=github)](https://github.com/somekindofwallflower/complete-javascript-course-2021/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**JavaScript Algorithms and Data Structures**](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structures) | [![GitHub issues](https://img.shields.io/github/issues/somekindofwallflower/javascript-algorithms-and-data-structures?color=green&logo=github&style=flat)](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structures) | [![GitHub PRs](https://img.shields.io/github/issues-pr/somekindofwallflower/javascript-projects-2021?style=flat&logo=github)](https://github.com/somekindofwallflower/javascript-projects-2021pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/somekindofwallflower/javascript-algorithms-and-data-structures?style=flat&color=critical&logo=github)](https://github.com/somekindofwallflower/javascript-algorithms-and-data-structures/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Full Stack Engineer**](https://github.com/somekindofwallflower/full-stack-engineer-2021) | [![GitHub issues](https://img.shields.io/github/issues/somekindofwallflower/full-stack-engineer-2021?color=green&logo=github&style=flat)](https://github.com/somekindofwallflower/full-stack-engineer-2021/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/somekindofwallflower/full-stack-engineer-2021?style=flat&logo=github)](https://github.com/somekindofwallflower/full-stack-engineer-2021/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/somekindofwallflower/full-stack-engineer-2021?style=flat&color=critical&logo=github)](https://github.com/somekindofwallflower/full-stack-engineer-2021/pulls?q=is%3Apr+is%3Aclosed)  |
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
 
-<sup><kbd>***[Click here](https://github.com/somekindofwallflower/my-views-counter)***</kbd> *to view my other projects.</sup>* <br>
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <h2 align="center"> my current activity </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
 
-<!-- #### [Click here to ask or suggest anything about my repositories!](https://github.com/somekindofwallflower/somekindofwallflower/issues/new) <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br> -->
-
-<p><a href="https://ko-fi.com/somekindofwallflower"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="somekindofwallflower" /></a></p><br><br>
-
-<h3 align="left"> Favorite quote:</h3>
-<!-- <p>“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.” – Marissa Mayer</p> -->
-
-<!-- 2022-02-23 -->
-<p>“This is one more piece of advice I have for you: don't get impatient. Even if things are so tangled up you can't do anything, don't get desperate or blow a fuse and start yanking on one particular thread before it's ready to come undone. You have to realize it's going to be a
-long process and that you'll work on things slowly, one at a time.”
-
-Haruki Murakami, Norwegian Wood
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/somekindofwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
-<a href="https://twitter.com/wallflower408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17074530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
-<a href="https://instagram.com/programmerscrunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/w4llfl0w3r13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
-<a href="https://discord.gg/wallflower#7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/somekindofwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
-<a href="https://twitter.com/wallflower408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17074530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
-<a href="https://instagram.com/programmerscrunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/w4llfl0w3r13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
-<a href="https://discord.gg/wallflower#7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
-		
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=somekindofwallflower&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=radical" alt="somekindofwallflower" />
-</p>
-
-<!-- <p align="center"> 
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somekindofwallflower&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
-</p> -->
-
-# Contributions
-(in the last 365 days, languages pie based on number of commits)
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-<br/>
-<h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️ ⬇
-</h3>
+------
+Credit: [Shobhit](https://github.com/shobhitkmr)
+Last Edited on: 01/06/2022
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
