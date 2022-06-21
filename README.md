@@ -75,12 +75,12 @@ You can click the Preview link to take a look at your changes.
       <br/>
         <p align="center">
           <a href="https://github.com/shobhitkmr1/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitkmr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitkmr1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shobhitkmr&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitkmr&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shobhitkmr1&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitkmr1&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
