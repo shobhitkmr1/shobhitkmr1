@@ -95,7 +95,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 ------
-Credit: [Shobhit](https://github.com/shobhitkmr)
+Credit: [Shobhit](https://github.com/shobhitkmr1)
 Last Edited on: 21/06/2022
 © 2022 GitHub, Inc.
 Terms
