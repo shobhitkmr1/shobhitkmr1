@@ -3,7 +3,7 @@ shobhitkmr1/shobhitkmr1 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/shobhitkmr1shobhitkmr1shobhitkmr1/shobhitkmr1shobhitkmr1/blob/main/resources/img/waving.gif">, I'm Shobhit</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/shobhitkmr1/shobhitkmr1/blob/main/grid-snake.svg">, I'm Shobhit</h1>
 <h4 align="center">Heya! I'm Shobhit kumar, a student currently living in Ghaziabad, India. I'm Full Stack Developer and self-learner </h4>
 </div>
 
