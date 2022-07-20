@@ -98,8 +98,9 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/shobhitkmr1/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="[![trophy](https://github-profile-trophy.vercel.app/?shobhitkmr1=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" /></a>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 </details>
 
 ------
