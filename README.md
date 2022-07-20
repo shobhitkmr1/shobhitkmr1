@@ -3,12 +3,12 @@ shobhitkmr1/shobhitkmr1 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shobhit</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/shobhitkmr1shobhitkmr1shobhitkmr1/shobhitkmr1shobhitkmr1/blob/main/resources/img/waving.gif">, I'm Shobhit</h1>
 <h4 align="center">Heya! I'm Shobhit kumar, a student currently living in Ghaziabad, India. I'm Full Stack Developer and self-learner </h4>
 </div>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/shobhitkmr1/shobhitkmr1/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
 </div>
 
@@ -51,18 +51,18 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
   <a href="https://github.com/shobhitkmr1" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
+     src="https://badges.pufler.dev/visits/shobhitkmr1/shobhitkmr1?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+  <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/years/shobhitkmr1/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
      alt="account age" /></a>
   </p>
   <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
+  <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/updated/shobhitkmr1/shobhitkmr1?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
      alt="updated" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+  <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/repos/shobhitkmr1/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
      alt="repos" /></a>
  </p>
 </div>
@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
       <br/>
         <p align="center">
           <a href="https://github.com/shobhitkmr1/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitkmr1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitkmr1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="shobhitkmr1 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/shobhitkmr1">
