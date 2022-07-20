@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
-  <img  src="https://github.com/shobhitkmr1/shobhitkmr1/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
 </div>
 
