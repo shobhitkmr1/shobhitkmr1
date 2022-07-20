@@ -11,8 +11,10 @@ You can click the Preview link to take a look at your changes.
   <img  src="https://github.com/shobhitkmr1/shobhitkmr1/blob/main/grid-snake.svg"
        alt="snake" />
 </div>
-
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=shobhitkmr1&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+<details>
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -52,7 +54,7 @@ You can click the Preview link to take a look at your changes.
     </p>
   </samp>
 </div>
-
+</details>
 
 <details>
   <summary>🧮 about</summary>
@@ -98,9 +100,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=shobhitkmr1&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+
 </details>
 
 ------
