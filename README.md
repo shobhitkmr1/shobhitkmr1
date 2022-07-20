@@ -42,13 +42,7 @@ You can click the Preview link to take a look at your changes.
       <a href="https://twitter.com/shobhitkmr1" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
-   <p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198418539019/" target="blank"><img align="center" 
-     src="https://img.shields.io/steam/views/100?logo=steam&style=social"
-     alt="Steam" /></a>
-    <a href="https://www.freecodecamp.org/fcca6157bd4-ba7b-40db-a44f-b9439a45049a" target="blank"><img align="center" 
-     src="https://img.shields.io/freecodecamp/points/shobhit?logo=freecodecamp&style=social"
-     alt="freecodecamp" /></a>
+   
     
   </p>
       <br>
@@ -68,6 +62,13 @@ You can click the Preview link to take a look at your changes.
   <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
      src="https://img.shields.io/github/release-date/shobhitkmr1/shobhitkmr1?style=social"
      alt="account age" /></a>
+  <p align="center">
+  <a href="https://steamcommunity.com/profiles/76561198418539019/" target="blank"><img align="center" 
+     src="https://img.shields.io/steam/views/100?logo=steam&style=social"
+     alt="Steam" /></a>
+    <a href="https://www.freecodecamp.org/fcca6157bd4-ba7b-40db-a44f-b9439a45049a" target="blank"><img align="center" 
+     src="https://img.shields.io/freecodecamp/points/shobhit?logo=freecodecamp&style=social"
+     alt="freecodecamp" /></a>
  </p>
 </div>
 </details>
@@ -96,12 +97,6 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/shobhitkmr1/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=shobhitkmr1&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
-
-<details>
-  <summary>🏆 GitHub Profile Trophy</summary>
-  <br/>
-
 </details>
 
 ------
