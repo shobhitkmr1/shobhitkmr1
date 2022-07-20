@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
   <summary>🏆 GitHub Profile Trophy</summary>
   <br/>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=shobhitkmr1&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=shobhitkmr1&column=6&theme=buddhism&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 </details>
 
