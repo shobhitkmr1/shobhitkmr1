@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
   <img  src="https://github.com/shobhitkmr1/shobhitkmr1/blob/main/grid-snake.svg"
        alt="snake" />
 </div>
-
 <details>
   <summary>☎️ contact me</summary>
 <div>
