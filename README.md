@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
   <a href="https://github.com/shobhitkmr1" target="blank"><img align="center" 
-     src="https://img.shields.io/github/search/shobhitkmr1/shobhitkmr1/spy">
+     src="https://img.shields.io/github/search/shobhitkmr1/shobhitkmr1/spy?logo=github&style=social">
      </a>
   <a href="https://github.com/shobhitkmr1" target="blank"><img align="center" 
      src="https://img.shields.io/github/stars/shobhitkmr1/shobhitkmr1?style=social"
