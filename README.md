@@ -58,9 +58,9 @@ You can click the Preview link to take a look at your changes.
      alt="account age" /></a>
   </p>
   <p align="center">
-  <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/shobhitkmr1/shobhitkmr1?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
+  <a href="https://steamcommunity.com/profiles/76561198418539019/" target="blank"><img align="center" 
+     src="https://img.shields.io/steam/views/100?logo=steam&style=social"
+     alt="Steam" /></a>
   <a href="https://www.freecodecamp.org/fcca6157bd4-ba7b-40db-a44f-b9439a45049a" target="blank"><img align="center" 
      src="https://img.shields.io/freecodecamp/points/shobhit?logo=freecodecamp&style=social"
      alt="freecodecamp" /></a>
