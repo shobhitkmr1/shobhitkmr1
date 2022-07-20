@@ -2,9 +2,6 @@
 shobhitkmr1/shobhitkmr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=shobhitkmr1&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/shobhitkmr1/shobhitkmr1/blob/main/waving.gif">, I'm Shobhit</h1>
 <h4 align="center">Heya! I'm Shobhit kumar, a student currently living in Ghaziabad, India. I'm Full Stack Developer and self-learner </h4>
@@ -99,9 +96,11 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary>🏆 GitHub Profile Trophy</summary>
   <br/>
-
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=shobhitkmr1&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 </details>
 
 ------
