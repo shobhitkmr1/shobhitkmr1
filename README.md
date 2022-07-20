@@ -94,7 +94,6 @@ You can click the Preview link to take a look at your changes.
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/shobhitkmr1/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=shobhitkmr1&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
-
 ------
 Credit: [Shobhit](https://github.com/shobhitkmr1)
 Last Edited on: 21/06/2022
