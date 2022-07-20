@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="https://github.com/shobhitkmr1" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitkmr1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/shobhitkmr1">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shobhitkmr1&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhitkmr1&theme=gruvbox&hide_border=true" />
           </a>
