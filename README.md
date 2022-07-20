@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2 align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=shobhitkmr1&column=6&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET" />
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </h2>
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/shobhitkmr1/shobhitkmr1/blob/main/waving.gif">, I'm Shobhit</h1>
