@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
       <a href="https://twitter.com/shobhitkmr1" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
-    
   </p>
       <br>
     </p>
