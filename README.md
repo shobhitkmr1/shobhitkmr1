@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
      src="https://img.shields.io/github/search/shobhitkmr1/shobhitkmr1/spy">
      </a>
   <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
-     src="https://img.shields.io/github/release-date/shobhitkmr1/shobhitkmr1?style=social"
-     alt="account age" /></a>
+     src="https://img.shields.io/github/stars/shobhitkmr1/shobhitkmr1?style=social"
+     alt="Repo stars" /></a>
   <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198418539019/" target="blank"><img align="center" 
      src="https://img.shields.io/steam/views/100?logo=steam&style=social"
