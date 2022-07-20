@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
        alt="snake" />
 </div>
 
-<details>
+
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
     </p>
   </samp>
 </div>
-</details>
+
 
 <details>
   <summary>🧮 about</summary>
