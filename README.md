@@ -62,8 +62,8 @@ You can click the Preview link to take a look at your changes.
      src="https://badges.pufler.dev/updated/shobhitkmr1/shobhitkmr1?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
      alt="updated" /></a>
   <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/shobhitkmr1/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
+     src="https://img.shields.io/freecodecamp/points/shobhit?style=social"
+     alt="freecodecamp" /></a>
  </p>
 </div>
 </details>
