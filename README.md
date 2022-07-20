@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
      src="https://img.shields.io/github/search/shobhitkmr1/shobhitkmr1/spy">
      </a>
   <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/shobhitkmr1/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+     src="https://img.shields.io/github/release-date/shobhitkmr1/shobhitkmr1?style=social"
      alt="account age" /></a>
   </p>
   <p align="center">
