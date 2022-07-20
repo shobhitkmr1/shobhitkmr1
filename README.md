@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
   <a href="https://github.com/shobhitkmr1" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/shobhitkmr1/shobhitkmr1?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
+     src="<img alt="GitHub search hit counter" src="https://img.shields.io/github/search/shobhitkmr1/shobhitkmr1/spy">"
      alt="spying counter" /></a>
   <a href="github.com/shobhitkmr1" target="blank"><img align="center" 
      src="https://badges.pufler.dev/years/shobhitkmr1/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
